@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="nama">Zidane</string>
+    <string name="alamat">Kasihan, Bantul</string>
+    <string name="copy">Copyright, 2026</string>
+
+
+</resources>
